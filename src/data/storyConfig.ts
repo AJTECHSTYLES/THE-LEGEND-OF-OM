@@ -1,6 +1,6 @@
 import { StoryFrame, StoryScene } from '../types/story';
 
-export const GITHUB_REPO_URL = 'https://github.com/akashpr2005/earth-jukebox';
+export const GITHUB_REPO_URL = 'https://github.com/AJTECHSTYLES/THE-LEGEND-OF-OM';
 
 export const STORY_SCENES: StoryScene[] = [
   {
